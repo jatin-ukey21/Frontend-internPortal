@@ -94,7 +94,7 @@ Make sure backend is running and accessible before running this frontend locally
 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/intern-portal-frontend.git
+git clone https://github.com/jatin-ukey21/Frontend-internPortal
 ```
 
 2. Navigate into the project
